@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhetrerajat&layout=compact&hide=html,jupyter%20notebook)](https://github.com/mhetrerajat/)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhetrerajat&" alt="mhetrerajat" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhetrerajat&" alt="mhetrerajat" /></p> -->
 
 
 
