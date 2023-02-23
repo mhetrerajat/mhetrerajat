@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Rajat</h1>
 
-<p align="left">My tryst with computers started with a dream to build a website. Currently, I am working on building the future of a data product for insurance.</p>
+<p align="left">    My tryst with computers started with a dream to build a website. Currently, I am working on my Master’s research in text-to-image and image-to-text generative diffusion models.</p>
 
 
 <!--
